@@ -29,11 +29,11 @@ export const FolaMockup: React.FC<FolaMockupProps> = ({ liveUrl }) => {
             target="_blank"
             rel="noopener noreferrer"
             className="flex-1 max-w-md mx-auto flex items-center justify-center gap-1.5 py-1 px-3 bg-white rounded-md border border-zinc-200/80 text-zinc-600 hover:text-zinc-900 transition-colors truncate"
-            title="Open fola-portfolio-site-gunvxs1c1-azym.vercel.app"
+            title="Open fola-portfolio-site.vercel.app"
           >
             <Lock className="w-3 h-3 text-emerald-600 shrink-0" />
             <span className="text-[11px] sm:text-xs font-mono truncate">
-              fola-portfolio-site-gunvxs1c1-azym.vercel.app
+              fola-portfolio-site.vercel.app
             </span>
           </a>
 

@@ -3,7 +3,7 @@ import { ArrowUpRight } from 'lucide-react';
 import { FolaMockup } from './FolaMockup';
 
 export const FeaturedWork: React.FC = () => {
-  const folaLiveUrl = 'https://fola-portfolio-site-gunvxs1c1-azym.vercel.app';
+  const folaLiveUrl = 'https://fola-portfolio-site.vercel.app/';
 
   return (
     <section id="work" className="w-full py-16 sm:py-24 px-6 border-t border-zinc-200/80">
